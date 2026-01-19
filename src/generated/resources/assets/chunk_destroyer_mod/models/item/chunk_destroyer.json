@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "chunk_destroyer_mod:item/chunk_destroyer"
+  }
+}

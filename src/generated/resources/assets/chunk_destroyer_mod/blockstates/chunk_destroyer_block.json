@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "chunk_destroyer_mod:block/chunk_destroyer_block"
+    }
+  }
+}
